@@ -3,7 +3,7 @@
 <h3 align="center">42 Roma Luiss Student - Common Core</h3>
 
 
-- 🔭 I’m currently working on **ESmice    (multithread progam || windows api)    [currently private]**
+- 🔭 I’m currently working on **GET_NEXT_LINE    (linked-lists || file descriptors)    [currently private]**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProssimoCentauro?tab=repositories](https://github.com/ProssimoCentauro?tab=repositories)
