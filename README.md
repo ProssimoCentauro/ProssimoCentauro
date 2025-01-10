@@ -3,7 +3,7 @@
 <h3 align="center">42 Roma Luiss Student - Common Core</h3>
 
 
-- 🔭 I’m currently working on **FT_PRINTF    (recreation of the printf function || c language)    [currently private]**
+- 🔭 I’m currently working on **MINITALK    (communication beetween processes || unix signals || c language)    [currently private]**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProssimoCentauro?tab=repositories](https://github.com/ProssimoCentauro?tab=repositories)
