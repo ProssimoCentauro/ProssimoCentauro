@@ -3,7 +3,7 @@
 <h3 align="center">42 Roma Luiss Student - Common Core</h3>
 
 
-- 🔭 I’m currently working on **FRACT-OL    (fractal rendering software || c language)**
+- 🔭 I’m currently working on **Philosophers   (multithreading software || c language)**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProssimoCentauro?tab=repositories](https://github.com/ProssimoCentauro?tab=repositories)
