@@ -1,4 +1,3 @@
-![MasterHead](https://yt3.googleusercontent.com/rVDC-VQZXkHmGlxx6VK2j8m40LhA0KR7HAExquVecyF-egfNUTE1_0mfWgoxGtNTtJm4KlPOZW8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 <h1 align="center">Hi 👋, I'm Riccardo!</h1>
 <h3 align="center">42 Roma Luiss Student - Common Core</h3>
 
