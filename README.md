@@ -2,7 +2,7 @@
 <h3 align="center">42 Roma Luiss Student - Common Core</h3>
 
 
-- 🔭 I’m currently working on **MINISHELL   (shell recreation || c language)**
+- 🔭 I’m currently working on **NETPRACTICE   (networking exercises)**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ProssimoCentauro?tab=repositories](https://github.com/ProssimoCentauro?tab=repositories)
