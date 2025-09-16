@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riccardo!</h1>
+<h3 align="center">Tinexta Defence/MBDA - System/Software Engineer</h3>
 <h3 align="center">42 Roma Luiss Student — Common Core</h3>
 
 ---
