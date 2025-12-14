@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on **miniRT** — a raytracer written in C using MiniLibX  
+- 🔭 I’m currently working on **Inception** — A project about Server Hosting using Docker Containers
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/ProssimoCentauro?tab=repositories)  
 - 📫 Reach me at **rik.todaro@gmail.com**
 
